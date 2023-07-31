@@ -1,1 +1,4 @@
 changed master
+some text here
+and here
+and here
