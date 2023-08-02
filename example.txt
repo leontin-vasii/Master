@@ -1,8 +1,9 @@
-changed master
-some text
+changed master ------ and here
+some text ------- write some text here
 some text
 here
 here
 some text here
 and here
 and here
+add one line
