@@ -1,8 +1,9 @@
-changed master
+changed master - here some text
 some text
 some text
 here
 here
 some text here
 and here
+and here some text
 and here
